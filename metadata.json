@@ -1,0 +1,5 @@
+{
+  "name": "Airdrop Manager",
+  "description": "A clean and modern web application to manage creating and claiming cryptocurrency airdrops. The design is clean and light, with page navigation handled via the browser's address bar.",
+  "requestFramePermissions": []
+}
