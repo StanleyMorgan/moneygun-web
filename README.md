@@ -1,0 +1,2 @@
+# moneygun-web
+Airdrop Manager
